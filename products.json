@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "id": 1,
+      "title": "latest products",
+      "price": 79.99,
+      "image": "./image/product-1.jpg"
+    },
+
+    {
+      "id": 2,
+      "title": "latest products",
+      "price": 79.99,
+      "image": "./image/product-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "latest products",
+      "price": 79.99,
+      "image": "./image/product-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "latest products",
+      "price": 79.99,
+      "image": "./image/product-4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "latest products",
+      "price": 79.99,
+      "image": "./image/product-5.jpg"
+    },
+
+    {
+      "id": 6,
+      "title": "Latest Arrivals",
+      "price": 79.99,
+      "image": "./image/arrival-1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Latest Arrivals",
+      "price": 79.99,
+      "image": "./image/arrival-2.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Latest Arrivals",
+      "price": 79.99,
+      "image": "./image/arrival-3.gif"
+    }
+    ,
+    {
+      "id": 9,
+      "title": "Latest Arrivals",
+      "price": 79.99,
+      "image": "./image/arrival-4.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Latest Arrivals",
+      "price": 79.99,
+      "image": "./image/arrival-5.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Latest Arrivals",
+      "price": 145,
+      "image": "./image/arrival-6.gif"
+    }
+  ]
+}
